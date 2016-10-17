@@ -1,3 +1,10 @@
+/**
+ * Solution for Recount: https://open.kattis.com/problems/recount
+ * Created on 07-10-2016
+ * @author Marit van Dijk
+ */
+
+
 package kattis;
 
 import java.io.BufferedReader;
@@ -6,7 +13,6 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-//TLE 9/9
 public class Recount {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));		
