@@ -1,7 +1,7 @@
 /*
  * https://open.kattis.com/problems/carrots
  * 
- * Marit van Dijk
+ * Created by Marit van Dijk on 17-02-2016
  */
 
 package kattis;
